@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/panferov/static/css/main.b52d1d0d.css",
+    "main.js": "/panferov/static/js/main.c06691cf.js",
+    "static/media/video.mp4": "/panferov/static/media/video.5a9b7995b256df425b19.mp4",
+    "static/media/Euclid Circular A Italic.ttf": "/panferov/static/media/Euclid Circular A Italic.8a03b1582303832ce315.ttf",
+    "static/media/Euclid Circular A Medium Italic.ttf": "/panferov/static/media/Euclid Circular A Medium Italic.9f44747c04c2f9e18476.ttf",
+    "static/media/Euclid Circular A Bold Italic.ttf": "/panferov/static/media/Euclid Circular A Bold Italic.8af56c0bf454b59cfb9f.ttf",
+    "static/media/Euclid Circular A Medium.ttf": "/panferov/static/media/Euclid Circular A Medium.a5befbfcb71cd093cc56.ttf",
+    "static/media/Euclid Circular A Regular.ttf": "/panferov/static/media/Euclid Circular A Regular.d54600880dc63db716f2.ttf",
+    "static/media/Euclid Circular A SemiBold.ttf": "/panferov/static/media/Euclid Circular A SemiBold.ae11344face2a74d2042.ttf",
+    "static/media/Euclid Circular A Bold.ttf": "/panferov/static/media/Euclid Circular A Bold.b4788f2f8f64a74fe6d6.ttf",
+    "static/media/remains.otf": "/panferov/static/media/remains.715594106f5bdbaca9e3.otf",
+    "index.html": "/panferov/index.html",
+    "main.b52d1d0d.css.map": "/panferov/static/css/main.b52d1d0d.css.map",
+    "main.c06691cf.js.map": "/panferov/static/js/main.c06691cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b52d1d0d.css",
+    "static/js/main.c06691cf.js"
+  ]
+}
